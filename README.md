@@ -1,2 +1,8 @@
-# Pal-Hotel
-his project is a Hotel Reservation System developed using Spring Boot for the backend and React for the frontend. The application enables users to book rooms, view booking details, and manage their reservations. Spring Security and JWT (JSON Web Tokens) are used for user authentication and authorization, ensuring secure access to user data.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
