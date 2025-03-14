@@ -9,6 +9,7 @@ import ExistingRooms from "./Components/room/ExistingRooms"
 import RequireAuth from "./Components/auth/RequireAuth"
 import Checkout from "./Components/booking/Checkout"
 import RoomListing from "./Components/room/RoomListing"
+import AuthProvider from "./Components/Auth/AuthProvider";
 import Admin from "./Components/Admin/Admin"
 import BookingSuccess from "./Components/Booking/BookingSuccess"
 import FindBooking from "./Components/booking/FindBooking"
